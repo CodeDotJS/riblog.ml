@@ -17,8 +17,10 @@
   Base
 */
 
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+
 body {
-  font-family: "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: 'Inconsolata', monospace;
   font-size: 18px;
   color: #515151;
   line-height: 1.75rem;
