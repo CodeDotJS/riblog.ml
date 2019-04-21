@@ -2,7 +2,7 @@
 layout: post
 title: "Beginning"
 author: "Rishi Giri"
-categories: general
+categories: General
 tags: [first post]
 image: 1.jpg
 ---
