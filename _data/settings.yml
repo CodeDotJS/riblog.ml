@@ -7,7 +7,7 @@ disqus:
 google-ID: 'UA-125012328-5'
 
 menu:
-- {name: 'Writing', path: 'menu', url: 'writing'}
+- {name: 'Archive', path: 'menu', url: 'writing'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
